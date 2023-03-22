@@ -42,7 +42,7 @@
   <div class="row">
 	<div class="col-md-4">
 		<h2>Heading</h2>
-		<p>ABC helle world at 2018</p>
+		<p>ABC helle world </p>
 		<p>
 			<a class="btn btn-default" href="#" role="button">View details</a>
 		</p>
