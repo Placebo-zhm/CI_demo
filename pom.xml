@@ -44,7 +44,7 @@
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
 					<fork>true</fork>
-                    <executable>C:\Program Files (x86)\Java\jdk1.7.0_25\bin\javac.exe</executable>
+                    <executable>C:\Users\Zhanghm\.jdks\liberica-11.0.16.1\bin\javac.exe</executable>
 				</configuration>
 			</plugin>
 
